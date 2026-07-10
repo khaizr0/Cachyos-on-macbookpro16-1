@@ -27,7 +27,7 @@ git clone https://github.com/Lekensteyn/dmg2img.git
 cd dmg2img
 
 # Build the binaries
-
+make
 
 # Install the executables
 sudo cp dmg2img /usr/local/bin/
