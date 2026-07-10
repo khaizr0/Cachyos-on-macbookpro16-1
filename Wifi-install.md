@@ -102,12 +102,6 @@ Then press **Enter**.
 
 The script will download the selected macOS Recovery image from Apple's servers, extract the required Broadcom Wi-Fi firmware, and install it automatically.
 
-The script will:
-
-- Download the official macOS Recovery image directly from Apple's servers.
-- Extract the required Broadcom Wi-Fi firmware.
-- Install the firmware into your Linux system automatically.
-
 The download time depends on your Internet connection speed.
 
 ## Credits
